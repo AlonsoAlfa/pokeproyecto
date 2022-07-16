@@ -94,23 +94,7 @@ export default function App() {
       }}
     >
       <div>
-       
-        <div className="App">
-          <Searchbar onSearch={onSearch} />
-          {notFound ? (
-            <div className="not-found-text">
-              No se encontro el Pokemon que buscabas 😭
-            </div>
-          ) : (
-            <Pokedex
-              loading={loading}
-              pokemons={pokemons}
-              page={page}
-              setPage={setPage}
-              total={total}
-            />
-          )}
-         </div>
+  
           
         <Navbar />
         <Footer />
