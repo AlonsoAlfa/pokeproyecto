@@ -20,7 +20,7 @@ root.render(
           <Route path='/' element={<App/>}/>
           <Route path='/pokemons/:id' element={<Pokemon/>} />
           <Route path='/pokemon' element={<Poke/>} />
-         
+          <Route path='/170892' element={<Info/>} />
         </Routes>
       </BrowserRouter>
     </div>

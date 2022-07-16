@@ -1,16 +1,5 @@
 
-  body{
-    background-image: url('https://free4kwallpapers.com/uploads/originals/2015/07/23/pokemon-pikachu.jpg');
-  background-repeat: no-repeat;
-  background-size:100%;
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
- 
-  }
+
 
   .container{
     width: 100%;
