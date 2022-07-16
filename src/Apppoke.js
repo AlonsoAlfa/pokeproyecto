@@ -5,11 +5,16 @@ import { useTranslation } from "react-i18next";
 
 
 
+
+
+
+
+
 function Apppoke() {
   return (
     <>
     <Suspense>
-      <Welcome/>
+      
     </Suspense>
       <Main/>
     </>
